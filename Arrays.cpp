@@ -1,9 +1,8 @@
 // Program showing insertion and deletion of arrays
 /*
-Name : Craig Nginga
-Reg No: BSE-05-0209/2024
+Name : RODNEY VALENCIA SANDE
+Reg No: BSE-01-0212/2024
 Group : 3
-Github username: Craig631
 */
 
 #include <iostream>
