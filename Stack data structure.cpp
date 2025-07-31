@@ -2,7 +2,7 @@
 /*
 Name : RODNEY VALENCIA SANDE
 Reg No: BSE-01-0212/2024
-Group : 3
+Group  : 3
 */
 
 #include <iostream>
