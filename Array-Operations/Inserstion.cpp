@@ -1,10 +1,9 @@
 /*
- * Purpose: Inserts an element at a specified index in an array.
- * Programmer: Sophy Naliaka
- * AdmNo: BSE-05-0183/2024
+ * Purpose: Delets an element at a specified index in an array.
+ * Programmer: RODNEY VALENCIA SANDE
+ * AdmNo: BSE-01-0212/2024
  * Date: June 18, 2025
  */
-
 #include <stdio.h>
 
 //insert - Inserts a value at the specified index, shifting elements right.
@@ -34,4 +33,5 @@ int main() {
     insert(arr, &size, maxSize, 2, 10);
 
     return 0;
+
 }
