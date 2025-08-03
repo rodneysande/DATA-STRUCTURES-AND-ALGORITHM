@@ -1,7 +1,7 @@
 /*
  * Purpose: Delets an element at a specified index in an array.
- * Programmer: Sophy Naliaka
- * AdmNo: BSE-05-0183/2024
+ * Programmer: RODNEY VALENCIA SANDE
+ * AdmNo: BSE-01-0212/2024
  * Date: June 18, 2025
  */
 #include <stdio.h>
@@ -45,4 +45,5 @@ int main() {
     }
 
     return 0;
+
 }
