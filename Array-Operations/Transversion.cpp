@@ -1,9 +1,10 @@
 /*
  *Purpose: Traverses and prints all elements of an array.
- *Programmer: Sophy Naliaka
- *AdmNo: BSE-05-0183/2024
+ * Programmer: RODNEY VALENCIA SANDE
+ * AdmNo: BSE-01-0212/2024
  * Date: June 18, 2025
  */
+
 
 /* Required header for input/output operations */
 #include <stdio.h>
@@ -25,4 +26,5 @@ int main() {
     int size = 5;                   // Current number of elements
     traverse(arr, size);
     return 0;
+
 }
