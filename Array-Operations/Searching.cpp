@@ -1,10 +1,9 @@
 /*
- * Purpose: Searches for an element by index or value in an array.
- * Programmer: Sophy Naliaka
- * AdmNo: BSE-05-0183/2024
+ * Purpose: Delets an element at a specified index in an array.
+ * Programmer: RODNEY VALENCIA SANDE
+ * AdmNo: BSE-01-0212/2024
  * Date: June 18, 2025
  */
-
 #include <stdio.h>
 
 //search - Searches for an element by index or value in the array.
@@ -37,4 +36,5 @@ int main() {
     printf("Search by value 4: ");
     search(arr, size, 4, 0); // By value
     return 0;
+
 }
